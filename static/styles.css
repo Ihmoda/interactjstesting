@@ -15,21 +15,6 @@
   position: absolute;
 }
 
-#first {
-  top: 0px;
-  right: 0px;
-}
-
-#second {
-  left: 0px;
-  right: 20px;
-}
-
-#third {
-  left: 0px;
-  right: 40px;
-}
-
 .ib {
   display: inline-block;
 }
